@@ -17,8 +17,8 @@ NSBundle
 
 printf()
 malloc()
-NSString metody
-NSBundle info
+NSString
+NSBundle
 syscall()
 ptrace()
 sandbox_extension_*
