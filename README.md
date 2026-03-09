@@ -1,5 +1,5 @@
-# ios26-bootstrap
-Some iOS (iOS 26.0–26.1) bootstraps.
+# ios26-hooks
+Some iOS (iOS 26.0–26.1) hooks.
 
 **WARNING**
 
