@@ -25,3 +25,7 @@ sandbox_extension_*
 MSHookFunction
 IORegistry
 posix_spawn
+
+**Files that are going to work on a REAL iPhone**
+
+fishhook.c
