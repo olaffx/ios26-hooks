@@ -3,7 +3,7 @@ Some iOS (iOS 26.0–26.1) hooks.
 
 **WARNING**
 
-This will **NOT** work on a real iPhone, if you want to execute the code fully you need to run it in a virtualized iPhone (vphone-aio)
+This will **NOT** work on a real iPhone, if you want to execute the code fully you need to run it in a virtualized iPhone (vphone-aio) or (vphone-cli)
 
 
 **Functions that will work on a real iPhone:**
